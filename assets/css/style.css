@@ -32,7 +32,7 @@ body {
 
 /* Nav */
 
-.header div {
+.navbar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -40,11 +40,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.navbar ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.navbar ul li {
     display: inline-block;
     margin-left: 25px;
 }
