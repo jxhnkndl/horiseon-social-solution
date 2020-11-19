@@ -50,7 +50,7 @@ body {
     margin-left: 25px;
 }
 
-/* Link + Paragraph Styles */
+/* Links */
 
 a {
     color: #ffffff;
@@ -76,7 +76,7 @@ a {
     margin-left: 20px;
 }
 
-/* Main Content: Section Floats */
+/* Main Content: Section Card Floats */
 
 .float-left {
     float: left;
@@ -145,6 +145,6 @@ a {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
