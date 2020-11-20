@@ -2,7 +2,7 @@
 
 ## Project Goals
 
-The primary goal for this project was to edit the existing homepage for Horiseon Social Solution Services to improve its accessibility features and overall semantic structure. The secondary goal was to fix any broken page components and refactor the HTML and CSS documents appropriately.
+The primary goal for this project was to edit the existing homepage for Horiseon Social Solution Services to improve its accessibility features and overall semantic structure. The secondary goal was to fix any broken page components and refactor the page's HTML and CSS documents to reduce repetition and improve readability.
 
 ## Improved Accessibility Features
 
@@ -18,7 +18,7 @@ The primary goal for this project was to edit the existing homepage for Horiseon
 
 ## Page Preview
 
-While the updated version of Horiseon's home page did not alter it's overall appearance, the updated structure underneath the page more clearly defines each section.
+While the updates made to Horiseon's home page did not alter its overall appearance, the refactored structure underneath the page more clearly articulates the role each section plays in the document as a whole.
 
 ![Horiseon's updated home page](assets/screenshots/horiseon-homepage.png)
 
